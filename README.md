@@ -1,1 +1,1 @@
-# Myfirstpowershell
+# I was tasked to complete an inventory project to obtain PC information such as serial numbers, bios asset ta, IP , PC names, models, and operating systems that had to be completed within 2 weeks from various locations. This was my first attempt creating any script or code so I managed to code and compile this to an EXE file within two days. As long as the PC was on the network I was able to retrieve the requested information on the network.
